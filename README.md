@@ -13,7 +13,7 @@ I design high-performance, mathematically grounded software systems for scientif
 - **Lena** – Functional framework for composable scientific data analysis
 - **ROOT/RDataFrame optimisation** – HPC-oriented analysis pipelines
 - **Custom C++ modelling libraries** – High-throughput computational systems
-- **yarsync (Debian/Ubuntu)** – System-level open-source contribution
+- **yarsync (Debian/Ubuntu)** – File synchronisation tool
 
 ## Approach
 - Architecture first
