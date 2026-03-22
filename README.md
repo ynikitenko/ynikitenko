@@ -25,3 +25,5 @@ I design high-performance, mathematically grounded software systems for scientif
 - PhD Candidate in Physics | RWTH Aachen, Germany
 - MS in Applied Physics and Mathematics | Moscow Institute of Physics and Technology (Global Top 100 for Physics and Mathematics, Global Top 10 for Competitive Programming (ICPC)) | Diploma with distinction, Potanin scholarship
 - MS in Mathematics | Independent University of Moscow (Founded by world-renowned mathematicians, 3-4 graduates per year)
+
+Feel free to contact me via metst13 (at) gmail.com
